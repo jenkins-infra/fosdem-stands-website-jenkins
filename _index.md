@@ -47,7 +47,7 @@ new_this_year: |
   Donate to the project: <a href="https://crowdfunding.lfx.linuxfoundation.org/projects/jenkins">CrowdFunding</a>
   </p>
   
-  <img src="/stands/jenkins/jenkins-needs-you.png" style="width: 100%;" alt="Jenkins Needs You"/>
+  <a href="https://www.jenkins.io/participate/"><img src="/stands/jenkins/jenkins-needs-you.png" style="width: 100%;" alt="Jenkins Needs You"/></a>
 
 showcase: |
   <p>Jenkins offers a simple way to set up a continuous integration or continuous
